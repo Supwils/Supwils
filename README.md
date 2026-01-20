@@ -3,10 +3,10 @@
 <p align="left">
   <samp>
   🧑‍🦱: &nbsp;Hi, I'm Huahao! you could call me Wilson. <br>
-  📚 &nbsp;I'm currently study at <a href = "https://www.rice.edu/">Rice University</a> for Master of Computer Science degree. <br>
+  📚 &nbsp;I graduated at <a href = "https://www.rice.edu/">Rice University</a> for Master of Computer Science degree. <br>
   👩‍🎓 &nbsp;Graduated from <a href = "https://www.syracuse.edu/">Syracuse University</a> with a BS in Computer Science. <br>
   📄 &nbsp;Exprienced in Web Dev, Full Stack Software Engineering, Database Optimize, ML/DL <br>
-  🥅 &nbsp;Currently SEEKING Full-Time Jobs.  <br>
+  🥅 &nbsp;Currently work for Agentiq Capital Full-Time Jobs.  <br>
 <!--   💬 &nbsp;Ask me about anything, such as applications, programming, etc. I'm happy to answer! <br> -->
   📫 &nbsp;Feel free to reach out to me via <a href = "mailto:huahaoshang2000@gmail.com">huahaoshang2000@gmail.com</a> :D <br>
   </samp>
