@@ -6,7 +6,7 @@
   📚 &nbsp;I graduated at <a href = "https://www.rice.edu/">Rice University</a> for Master of Computer Science degree. <br>
   👩‍🎓 &nbsp;Graduated from <a href = "https://www.syracuse.edu/">Syracuse University</a> with a BS in Computer Science. <br>
   📄 &nbsp;Exprienced in Web Dev, Full Stack Software Engineering, Database Optimize, ML/DL <br>
-  🥅 &nbsp;Currently work for Agentiq Capital Full-Time Jobs.  <br>
+  🥅 &nbsp;Currently work for Agentiq Capital.  <br>
 <!--   💬 &nbsp;Ask me about anything, such as applications, programming, etc. I'm happy to answer! <br> -->
   📫 &nbsp;Feel free to reach out to me via <a href = "mailto:huahaoshang2000@gmail.com">huahaoshang2000@gmail.com</a> :D <br>
   </samp>
@@ -16,6 +16,12 @@
 <p>
   <a href="https://github.com/supwils" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/huahao-shang-7b59b2224/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/479803243" target="_blank">
+  <img
+    alt="Bilibili"
+    src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=play&logoColor=white"
+  />
+</a>
 </p>
 
 ### 🔗 &nbsp;Skills
