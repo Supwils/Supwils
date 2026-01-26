@@ -60,7 +60,7 @@
 
 
 ### 🔗 &nbsp;My Fun Stuff
-  👟 Athletic Performance Trainer 🏋️‍♂️ Olympic Weightlifting 🏀 Basketball ⛷️ Skiing </br>
+  👟 Athletic Performance Trainer 🏋️‍♂️ Olympic Weightlifting 🏀 Basketball ⛷️ Snowboarding </br>
   👨‍🍳 Food Making(Chinese & World Cusine) </br>
   🎮 Video Game Producer <a href="https://space.bilibili.com/479803243?spm_id_from=333.1007.0.0">MyBilibili</a> </br>
   More to add....
